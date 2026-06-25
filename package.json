@@ -1,0 +1,24 @@
+{
+  "name": "my-first-backend",
+  "version": "1.0.0",
+  "description": "this is a DEMO project by nattthasit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node.js javaScript"
+  },
+  "author": "natthasit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
